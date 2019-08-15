@@ -17,7 +17,7 @@ class admininterface
             System.out.println("Press 5 to issue books.");
             System.out.println("Press 6 to return books.");
             System.out.println("Press 7 to go back.");
-            System.out.println("Press 8 to exit.");
+            System.out.println("Press 8 to exi.");
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             int choice = 0;
             try{
